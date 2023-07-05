@@ -1,14 +1,8 @@
-<div align=center>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=3333FF&height=200&section=header&text=BitChan%20Kim's%20GitHub&fontColor=FFFFFF&fontSize=60"/>   
 </div>
 
-<h4 align=center>e-mail</h4>
-
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bchankim27@gmail.com)
-[![Naver](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=Naver&logoColor=white)](mailto:bitquiett@naver.com) 
-
-<p>· blog</p>
-
+<div align="center" dir="auto"></div> 
 
 
 
