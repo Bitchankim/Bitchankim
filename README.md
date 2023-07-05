@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=3333CC&height=150&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=90" />
 
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+<div align="center">
+  <h1 style="font-size: 24px;">BitChan kim, 김빛찬</h1>
+</div>
 
 
 <!--
