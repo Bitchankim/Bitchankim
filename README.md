@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=BitChan%20Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=0000FF&height=200&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=90" />
 
 
 <!--
