@@ -1,5 +1,5 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?   type=Waving&color=3333FF&height=200&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=70"/>
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=3333FF&height=200&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=70"/>   
 </div>
 
 
