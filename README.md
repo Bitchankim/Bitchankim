@@ -1,6 +1,4 @@
-<html>
-<head>
-  <title>Contact Information</title>
+<title>Contact Information</title>
 </head>
 <body>
   <h2>🇰🇷 Bitchan Kim, 김빛찬</h2>
@@ -9,8 +7,7 @@
     <li><a href="mailto:bchankim27@gmail.com">Gmail</a></li>
     <li><a href="mailto:bitquiett@naver.com">Naver</a></li>
   </ul>
-</body>
-</html>
+
 
 
 <!--
