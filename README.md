@@ -1,6 +1,5 @@
 <p>🇰🇷 Bitchan Kim, 김빛찬</p>
-<p>email:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bchankim27@gmail.com)</p>
+<p>E-mail</p>
 
 
 
