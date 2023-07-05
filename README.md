@@ -1,10 +1,10 @@
 <p>🇰🇷 Bitchan Kim, 김빛찬</p>
-<p>· email</p>
+<p>· e-mail</p>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bchankim27@gmail.com)
 [![Naver](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=Naver&logoColor=white)](mailto:bitquiett@naver.com) 
 
-
+<p>· blog</p>
 
 
 
