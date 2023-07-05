@@ -1,7 +1,9 @@
 ## 🇰🇷 Bitchan Kim, 김빛찬
-### - Contact
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bchankim27@gmail.com)
-[![Naver](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=Naver&logoColor=white)](mailto:bitquiett@naver.com)
+<p><strong>Contact</strong></p>
+<ul>
+  <li><a href="mailto:bchankim27@gmail.com">Gmail</a></li>
+  <li><a href="mailto:bitquiett@naver.com">Naver</a></li>
+</ul>
 
 <!--
 **Bitchankim/Bitchankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
