@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=3333FF&height=200&section=header&text=BitChan%20Kim's%20GitHub&fontColor=FFFFFF&fontSize=60"/>   
 </div>
 
-<div align="center" dir="auto"></div> 
+<div align="left" dir="auto"></div> 
+<h3 dir ="auto"> Contact </h3>
 
 
 
