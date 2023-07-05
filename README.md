@@ -5,7 +5,7 @@
 <div align="left" dir="auto"></div> 
 <h3 dir ="auto"> Contact </h3>
 <br>
-"e-mail : "
+e-mail : 
 <a href="mailto:bitquiett@naver.com"><img src="https://camo.githubusercontent.com/0238b5351bed3b344a229c3a675ec55a9c9694373dc6093dba6897361d669c44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e617665722d3033433735413f7374796c653d666c61742d737175617265266c6f676f3d4e61766572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
