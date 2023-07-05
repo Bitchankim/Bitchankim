@@ -1,11 +1,11 @@
-
+<body>
   <h2>🇰🇷 Bitchan Kim, 김빛찬</h2>
   <h3>Contact</h3>
   <ul>
     <li><a href="mailto:bchankim27@gmail.com">Gmail</a></li>
     <li><a href="mailto:bitquiett@naver.com">Naver</a></li>
   </ul>
-
+</body>
 
 
 <!--
