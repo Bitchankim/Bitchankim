@@ -1,4 +1,6 @@
 <p>🇰🇷 Bitchan Kim, 김빛찬</p>
+<p>Contact</p>
+
 <!--
 **Bitchankim/Bitchankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
