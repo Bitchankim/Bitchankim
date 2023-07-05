@@ -11,6 +11,8 @@ e-mail :
 
 blog :
 
+<h3 dir ="auto"> Contact </h3>
+
 
 
 
