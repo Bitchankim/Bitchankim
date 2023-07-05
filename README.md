@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=3333CC&height=150&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=90" />
 
 <a href="mailto:bchankim27@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-blue">
+  <img src="https://img.shields.io/badge/Gmail-blue">
 </a>
 
 <a href="mailto:bchankim27@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-blue">
+  <img src="https://img.shields.io/badge/naver-green">
 </a>
 
 
