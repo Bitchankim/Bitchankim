@@ -1,6 +1,6 @@
 <p>🇰🇷 Bitchan Kim, 김빛찬</p>
   <ul>
-    <li>이메일: <a href="mailto:이메일 주소">이메일 주소</a> <img src="지메일 뱃지 이미지 URL" alt="Gmail"></li>
+    <li>이메일: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bchankim27@gmail.com)</li>
     <li>블로그: <a href="블로그 주소">블로그 주소</a></li>
   </ul>
 
