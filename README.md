@@ -1,6 +1,4 @@
-<title>Contact Information</title>
-</head>
-<body>
+
   <h2>🇰🇷 Bitchan Kim, 김빛찬</h2>
   <h3>Contact</h3>
   <ul>
