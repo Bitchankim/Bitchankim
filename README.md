@@ -1,4 +1,4 @@
-<p>🇰🇷 Bitchan Kim, 김빛찬</p>
+<p style="font-size: 16px;">🇰🇷 Bitchan Kim, 김빛찬</p>
   <ul>
     <li>이메일: <a href="mailto:이메일 주소">이메일 주소</a></li>
     <li>블로그: <a href="블로그 주소">블로그 주소</a></li>
