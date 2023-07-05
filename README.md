@@ -1,7 +1,9 @@
 <p>🇰🇷 Bitchan Kim, 김빛찬</p>
-<p>Contact</p>
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![Naver](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=Naver&logoColor=white)](https://mail.naver.com/)
+  <ul>
+    <li>이메일: <a href="mailto:이메일 주소">이메일 주소</a></li>
+    <li>블로그: <a href="블로그 주소">블로그 주소</a></li>
+    <li>깃허브: <a href="깃허브 주소">깃허브 주소</a></li>
+  </ul>
 
 
 
