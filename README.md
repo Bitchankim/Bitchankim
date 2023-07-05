@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=3333FF&height=300&section=header&text=BitChan%20Kim&fontcolor=CCCCFF&fontSize=90" />
+
+
 <p align="center">🇰🇷 Bitchan Kim, 김빛찬</p>
 <p>· e-mail</p>
 
