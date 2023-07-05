@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/gmail-blue">
 </a>
 
+<a href="mailto:bchankim27@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-blue">
+</a>
+
 
 <!--
 **Bitchankim/Bitchankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
