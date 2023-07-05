@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=3333CC&height=150&section=header&text=BitChan%20Kim&fontColor=FFFFFF&fontSize=90" />
 
-<a href="mailto:your_email@example.com">
+<a href="mailto:bchankim27@gmail.com">
   <img src="https://img.shields.io/badge/Email-your_email_here-blue">
 </a>
 
