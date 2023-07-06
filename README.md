@@ -50,6 +50,8 @@ blog : (추가 예정)
 <div align="left" dir="auto">
   
 ![Bitchankim's github stats](https://github-readme-stats.vercel.app/api?username=Bitchankim&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitchankim&layout=compact&theme=tokyonight)
+
 </details>
 </br>
 
