@@ -46,7 +46,7 @@ blog : (추가 예정)
 </div>
 </details>
 <details>
-<summary>Git status</summary>
+<summary>Git status(언어 통계 수정 필요)</summary>
 <div align="left" dir="auto">
 <br>
   
