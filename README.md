@@ -15,6 +15,17 @@ blog : (추가 예정)
 </div>
 <br>
 <h3 dir ="auto"> Contact </h3>
+<details>
+<summary>🎓 Careers 🌱</summary>
+<ul dir="auto">
+<li>🎓 Yonsei University, The Degree of Bachelor of Science in Systems Biology (minor in Psychology) : 2010.03 ~ 2017.08</li>
+<li><g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji> Severance Hospital, Research Engineer : 2019.02 ~ 2021.01</li>
+<li>🎓 Yonsei-NaverCloud, Datascience Basic Course : 2021.07 ~ 2021.08</li>
+<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Codestates, AI Bootcamp 15th : 2022.08 ~ 2023.02</li>
+<li>⚙️ Algorigo Inc. (ML Engineer) : 2023.04 ~</li>
+</ul>
+</details>
+
 </br>
 
 
