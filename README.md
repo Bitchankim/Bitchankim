@@ -44,8 +44,8 @@ blog : (추가 예정)
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" style="max-width: 100%;"></a>
 </p>
 </div>
-</details>
 <summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> GitHub Stats <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></summary>
+</details>
 
 </br>
 
