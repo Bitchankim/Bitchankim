@@ -48,11 +48,13 @@ blog : (추가 예정)
 <details>
 <summary>Git status</summary>
 <div align="left" dir="auto">
+<br>
   
 ![Bitchankim's github stats](https://github-readme-stats.vercel.app/api?username=Bitchankim&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitchankim&layout=compact&theme=tokyonight)
-
+</br>
 </details>
+</div>
 </br>
 
 
