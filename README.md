@@ -45,6 +45,7 @@ blog : (추가 예정)
 </p>
 </div>
 </details>
+<summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> GitHub Stats <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></summary>
 
 </br>
 
