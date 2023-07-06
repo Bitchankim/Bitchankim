@@ -43,8 +43,9 @@ blog : (추가 예정)
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f9d2a3b8b64cd81c5d7adca580a4fc3507f74d9925068a8152defcbf52d63fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d466c61736b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6f9d2a3b8b64cd81c5d7adca580a4fc3507f74d9925068a8152defcbf52d63fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d466c61736b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" style="max-width: 100%;"></a>
 </p>
-</div>
 <summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> GitHub Stats <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></summary>
+</div>
+
 </details>
 
 </br>
