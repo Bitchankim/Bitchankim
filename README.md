@@ -13,6 +13,7 @@ e-mail :
 blog : (추가 예정)
 </p>
 </div>
+<br>
 <h3 dir ="auto"> Contact </h3>
 </br>
 
