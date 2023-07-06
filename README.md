@@ -14,7 +14,7 @@ blog : (추가 예정)
 </p>
 </div>
 <br>
-<h3 dir ="auto"> · Info </h3>
+<h3 dir ="auto"></h3>
 <details>
 <summary><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Tech Stack <g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></summary>
 <div align="center" dir="auto">
