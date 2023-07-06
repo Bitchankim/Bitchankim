@@ -46,7 +46,7 @@ blog : (추가 예정)
 </div>
 </details>
 <details>
-<summary>Tech Stack</summary>
+<summary>Git status</summary>
 <div align="left" dir="auto">
 </details>
 
